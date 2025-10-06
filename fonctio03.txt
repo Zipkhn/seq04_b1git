@@ -1,3 +1,3 @@
 linge01, modifiée, depuis le local
 modif en ayant aucun conflits
-conflit depuis le local
+Aucun conflit on a dit !
